@@ -1,1 +1,1 @@
-web: gunicorn "Twitoff:create_app()" -t 200
+web: gunicorn Twitoff:APP -t 200
