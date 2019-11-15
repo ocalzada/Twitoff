@@ -1,2 +1,2 @@
 # Twitoff
-a fun  web application for comparing and predicting tweets.
+a web application for comparing and predicting tweets.
